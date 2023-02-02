@@ -3,7 +3,7 @@ void setup(){
 }
 
 void draw(){
-  sierpinski(50,575,500);
+  sierpinski(50,550,500);
 }
   
  public void sierpinski(int x, int y, int len){
